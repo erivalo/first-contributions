@@ -26,6 +26,7 @@
 - [Lalit Jain](https://github.com/lalitjain98)
 - [Joshua Arabia](https://github.com/arabiajosh)
 - [E H]()
+- [Erick Vargas](https://github.com/erivalo/tank)
 - [Chamith](https://github.com/kanda94)
 - [Jason Charles] ()
 - [Joe Lee](https://github.com/josephlee93)
